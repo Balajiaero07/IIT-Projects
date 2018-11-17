@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: 'premium'
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/2018julydev.json
+  consumer_key: NivDJ0pTH4MOwQ1tmLODLmKft
+  consumer_secret: LYJPqZb5lpO2pgAu9Y6t5CR48rwHWTcdDMNeRNlH2GXmeMG7Zj
